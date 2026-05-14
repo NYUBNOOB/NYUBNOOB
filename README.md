@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm student of computer science at Prince of Songkla University.
 ----------------------------------------------------------------
 
-I've been learning programing and Modeling
+I've been learning about frontend developer.
 
 * 🌍  I'm based in Sadao Songkla
 * ✉️  You can contact me at [tinritto@gmail.com](mailto:tinritto@gmail.com)
